@@ -18,3 +18,5 @@ This project is a sample landing page for Nike, built using Vite and Tailwind CS
 
 ## Sample Image
 ![Nike-landing-page](https://github.com/Dragon-H22/Nike-Landig-Page/assets/88390970/31be73da-948d-486e-8f67-f6cc3fef0f4f)
+
+<br>
